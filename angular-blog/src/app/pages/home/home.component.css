@@ -1,0 +1,9 @@
+/* configurações que são aplicadas para todos os componentes*/
+.container__articles{
+  margin-top: 30px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
